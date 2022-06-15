@@ -1,0 +1,72 @@
+.home{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+
+}
+
+.card{
+    display: flex;
+    flex-direction: row;
+    width: 90%;
+    margin-top: 1rem;
+    position: relative;
+    display: -webkit-box;
+    display: -ms-flexbox;
+    display: flex;
+    -webkit-box-orient: vertical;
+    -webkit-box-direction: normal;
+    min-width: 0;
+    word-wrap: break-word;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    justify-content: center;
+    align-items: center;
+}
+
+.left{
+    display: flex;
+    align-items: center;
+    height: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    background-color: #fff;
+    background-clip: border-box;
+    border: 1px solid rgba(0,0,0,.125);
+    border-radius: 0.25rem;
+    margin: 0.7rem;
+  }
+     
+  .left img{
+    height: 80vh;
+    width: 55vh;
+    display: block;
+    border-top-left-radius: calc(0.25rem - 1px);
+    border-top-right-radius: calc(0.25rem - 1px);
+    border-style: none;
+  }
+  
+  .right{
+    flex: 1 1 auto;
+    padding: 0rem 1.25rem;
+  }
+
+  .right h1{
+      font-size: 3rem;
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-weight: 500;
+      color: #ee4b22;
+      text-align: center;
+  }
+
+  .right h2{
+      font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+      font-weight: 500;
+      color: #ee4b22;
+      text-align: center;
+      width: 100%;
+  }
