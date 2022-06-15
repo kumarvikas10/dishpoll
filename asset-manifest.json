@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/dishpoll/static/css/main.a29135e6.css",
+    "main.js": "/dishpoll/static/js/main.6adb4d80.js",
+    "index.html": "/dishpoll/index.html",
+    "main.a29135e6.css.map": "/dishpoll/static/css/main.a29135e6.css.map",
+    "main.6adb4d80.js.map": "/dishpoll/static/js/main.6adb4d80.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a29135e6.css",
+    "static/js/main.6adb4d80.js"
+  ]
+}
